@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Al-Seef Company
 image: /img/dpktagrxuaakg2i-1-.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Bringing Pleasure and Flavor Together
 mainpitch:
   title: Why Kaldi
   description: >
