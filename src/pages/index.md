@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: AL SEEF COMPANY
-image: /img/20220510_222253.jpg
+image: /img/20220510_221824.jpg
 heading: Al Seef Company
 subheading: مجموعة مقاهي ومطاعم السيف الشرقي
 mainpitch:
