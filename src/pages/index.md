@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Al-Seef Company
+title: AL SEEF COMPANY
 image: /img/dpktagrxuaakg2i-1-.jpg
-heading: Great coffee with a conscience
-subheading: Bringing Pleasure and Flavor Together
+heading: Al Seef Company
+subheading: مجموعة مقاهي ومطاعم السيف الشرقي
 mainpitch:
   title: Why Kaldi
   description: >
