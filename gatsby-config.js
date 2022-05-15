@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Seefco.com | Al Seef Company',
+    title: 'SEEFCO | Al Seef Company',
     description:
       'Al Seef Company is a Saudi chain of cafés headquartered in Dammam.',
   },
