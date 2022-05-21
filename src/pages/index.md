@@ -11,19 +11,24 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: Seef Café & Seef Tobacco
+description: Seef Cafés & Seef Tobacco
 intro:
   blurbs:
     - image: /img/seeftobacco.jpg
       text: >
         Seef Tobacco is a Saudi company for the supply of tobacco in the Kingdom
-        of Saudi Arabia | Eastern Province.
+        of Saudi Arabia | Eastern Province. Prices included tobacco tax 100%and
+        VAT  15%.
     - image: /img/20220510_222253.jpg
       text: >
         Seef Café offers carefully curated selection of brewing gear and tools
         for every taste and experience level. No matter if you roast your own
         beans or just bought your first french press, you’ll find a gadget to
         fall in love with in our shop.
+    - text: Seef café - Alkhaldiyah
+      image: /img/1111111111111111.jpg
+    - text: Seef Café - Lafontaine
+      image: /img/لافونتين.jpg
   heading: "What we "
   description: >
     Al-Seef is the ultimate spot for coffee lovers who want to learn about their
