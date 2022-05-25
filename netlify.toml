@@ -10,4 +10,4 @@
   from = "/sales"
   to = "https://dan.com/buy-domain/seefco.com"
   status = 200
-  force = true
+  force = false
