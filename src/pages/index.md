@@ -11,7 +11,9 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: Seef Cafés & Seef Tobacco
+description: We have opened 3 distinctively independent Coffee Shops and 1
+  Houkah Lounge where coffee and Shisha lovers are served by our team of highly
+  skilled baristas.
 intro:
   blurbs:
     - image: /img/seeftobacco.jpg
