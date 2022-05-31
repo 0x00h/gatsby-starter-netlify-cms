@@ -49,11 +49,11 @@ main:
     flavours… We take our flavours seriously!  Therefore next time you’re in Al
     Seef Café keep an eye out for some of the lesser known flavours!
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Shisha - Al Seef Café
+    image: /img/2-scaled-pmv4gzo937hzb4um7apv7fzudjid22imaqm2tsghqc.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Seeftobacco Shisha
+    image: /img/3-scaled.jpg
   image3:
     alt: Al Seef Café
     image: /img/20220510_221937.jpg
