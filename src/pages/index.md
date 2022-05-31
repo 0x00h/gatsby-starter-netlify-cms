@@ -17,7 +17,7 @@ intro:
     - image: /img/seeftobacco.jpg
       text: >
         Seef Tobacco is a Saudi company for the supply of tobacco in the Kingdom
-        of Saudi Arabia | Eastern Province. Prices included tobacco tax 100%and
+        of Saudi Arabia | Eastern Province. Prices included tobacco tax 100% and
         VAT  15%.
     - image: /img/20220510_222253.jpg
       text: >
