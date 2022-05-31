@@ -57,8 +57,8 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Al Seef Café
+    image: /img/20220510_221937.jpg
 testimonials:
   - author: Tamer Sabry
     quote: One of the best shisha in KSA, Nice open air smoking area
