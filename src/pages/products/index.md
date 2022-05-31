@@ -44,12 +44,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great Shisha with no compromises
+  description: Our flavour options ranges from Dubai, American, Arabian & German
+    flavours… We take our flavours seriously!  Therefore next time you’re in Al
+    Seef Café keep an eye out for some of the lesser known flavours!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -65,7 +63,7 @@ testimonials:
   - author: Thamer
     quote: Spacious and well organized and sheeshah is affordable compared to
       similar places.
-full_image: /img/products-full-width.jpg
+full_image: /img/الفيحاء-2-scaled.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
