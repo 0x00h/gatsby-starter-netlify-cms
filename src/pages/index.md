@@ -11,8 +11,8 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: We have opened 3 distinctively independent Coffee Shops and 1
-  Houkah Lounge where coffee and Shisha lovers are served by our team of highly
+description: We have opened 4 distinctively independent Coffee Shops and Houkah
+  Lounges where coffee and Shisha lovers are served by our team of highly
   skilled baristas.
 intro:
   blurbs:
@@ -21,8 +21,10 @@ intro:
         Seef Tobacco is a Saudi company for the supply of tobacco in the Kingdom
         of Saudi Arabia | Eastern Province. Prices included tobacco tax 100% and
         VAT  15%.
+
+        Shisha is served in all branches except for the Dammam branch, Al Shati district.
     - image: /img/20220510_222253.jpg
-      text: Seef Hookah Bar in Al khobar
+      text: Seef Café - Al khobar
     - text: Seef café - Alkhaldiyah
       image: /img/1111111111111111.jpg
     - text: Seef Café - Lafontaine
